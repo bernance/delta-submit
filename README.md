@@ -8,7 +8,7 @@ This version is self-hosted — no dependency on Claude.ai. It uses **Supabase**
 ---
 
 ## One-time setup (about 10 minutes)
-
+   
 ### 1. Create a Supabase project
 1. Go to [supabase.com](https://supabase.com) and sign up (free).
 2. Click **New project**. Pick any name (e.g. `delta-submit`), set a database password (save it somewhere), pick a region close to Nigeria (e.g. `eu-west` or `eu-central`).
